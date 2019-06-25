@@ -1,0 +1,9 @@
+He creado una página web, como si fuera el blog de una persona, que escribe noticias, artículos y curiosidades, de distintos campos. 
+El menú son las diferentes secciones que tiene el blog ficticio, que una vez que pinchas en ellas te llevan a dicha sección. 
+He puesto algunas fotografías, para probar los elementos float, jugar con el tamaño de las fotos, y también he añadido en el logo, la etiqueta position, para poder mover el logo donde yo quería ponerlo. 
+
+He jugado bastante con los títulos y las listas, poniéndoles, color, problando con los estilos y el tamaño. 
+También he añadido enlaces a otras páginas exteriores. Como si éstas fueran la fuente de donde se nutre este blog, además de añadir las etiqyetas de <header> y <footer> y poner copyright en los artículos. 
+
+He probado a incluir algunos selectores, que hacían referencia sobre todo a los títulos. 
+Por último por si querían registrarse, hice un pequeño formulario, además de incluir un área de texto por si querían dejar algún comentario. 
